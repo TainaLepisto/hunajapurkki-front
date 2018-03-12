@@ -2,7 +2,7 @@
 
 HunajaPurkki on mehiläistarhaajien apuväline mehiläisten hoitoon. Mobiilisovellukseen tallennetaan tiedot tarhoista, pesistä ja emoista, sekä pesien ja emojen tarkastuksista. Sovellus on suunnattu suomalaisen mehiläistarhaajan käyttöön. Sovellus muistuttaa pesien tarkastuksista säännöllisin väliajoin ja pitää kirjaa myös mahdollisista taudeista.
 
-[Sovelluksen dokumentaatio doc -kansiossa (tulossa)](./doc/hunajapurkki.pdf)
+[Sovelluksen dokumentaatio wikissä (tulossa)](https://github.com/TainaLepisto/hunajapurkki-front/wiki)
 
 ![kasitekaavio](https://github.com/TainaLepisto/hunajapurkki-front/blob/master/doc/kasitekaavio.png)
 
