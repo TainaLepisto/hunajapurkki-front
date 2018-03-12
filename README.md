@@ -15,6 +15,7 @@ Itsenäinen projekti itsevalitun aiheen mukaisesti. Aihe on sama kuin mitä työ
 ## Eteneminen
 
 [Kanban](https://github.com/TainaLepisto/hunajapurkki-front/projects/1)
+
 [Tuntikirjanpito](https://docs.google.com/spreadsheets/d/e/2PACX-1vTK6usP5-8d8fW4s99cKvzOD08hq6Xxm03wkpI7M9diAozN35ZSofQjWt1pG-6fuN5FvvcJInTn5x_1/pubhtml)
 
 ![Työajan käyttö aikajanalla](https://docs.google.com/spreadsheets/d/e/2PACX-1vTK6usP5-8d8fW4s99cKvzOD08hq6Xxm03wkpI7M9diAozN35ZSofQjWt1pG-6fuN5FvvcJInTn5x_1/pubchart?oid=701510078&format=image)
