@@ -8,7 +8,7 @@ HunajaPurkki on mehiläistarhaajien apuväline mehiläisten hoitoon. Mobiilisove
 
 ## Projektista
 
-Itsenäinen projekti itsevalitun aiheen mukaisesti. Aihe on sama kuin mitä työstin jo toisessa aineopintojen harjoitustyössä [tietokantasovellus](https://github.com/TainaLepisto/HunajaPurkki). 
+Itsenäinen projekti itsevalitun aiheen mukaisesti. Aihe on sama kuin mitä työstin jo [toisessa aineopintojen harjoitustyössä](https://github.com/TainaLepisto/HunajaPurkki). 
 
 [Full Stack -websovelluskehitys harjoitustyö on tietojenkäsittelytieteen aineopintojen harjoitustyökurssi.](https://fullstack-hy.github.io/harjoitustyo/) Kurssin tarkoituksena on tuottaa toimiva, käytettävä, siististi koodattu ja hyvällä arkkitehtuurilla rakennettu sovellus.
 
